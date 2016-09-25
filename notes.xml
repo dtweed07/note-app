@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<directory>
+	<notes>
+		<note id="103">
+			<title>Note 3</title>
+			<content>Hello, this is my third note!</content>
+			<sender>Darren</sender>
+			<receiver>Holly</receiver>
+			<status>New</status>
+			<date>10/10/2015</date>
+			<url>http://google.com</url>
+		</note>
+		<note id="102">
+			<title>Note 2</title>
+			<content>Hello, this is my second note!</content>
+			<sender>Holly</sender>
+			<receiver>Darren</receiver>
+			<status>Current</status>
+			<date>09/10/2015</date>
+			<url>http://youtube.com</url>
+		</note>
+		<note id="101">
+			<title>Note 1</title>
+			<content>Hello, this is my first note!</content>
+			<sender>Simone</sender>
+			<receiver>Adrian</receiver>
+			<status>Historic</status>
+			<date>08/10/2015</date>
+			<url></url>
+		</note>
+	</notes>
+</directory>

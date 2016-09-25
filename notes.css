@@ -1,0 +1,59 @@
+body {
+	background-image: url("notepad.jpg");
+	background-size:200px 200px;
+	padding-bottom:10%;
+}
+
+#container {
+	/*background-color: #F0F8FF;*/
+	background-color: rgba(255,255,255,0.9);
+	position:relative;
+	width:500px;
+	height:400px;
+	margin-top:10%;
+}
+
+#homeBtn{
+	position:absolute;
+	right:5px;
+	bottom:5px;
+	width:50px;
+    height:50px;
+}
+
+#backBtn{
+	position:absolute;
+	right:5px;
+	bottom:5px;
+    width:50px;
+    height:50px;
+}
+
+#helpURL{
+	position:absolute;
+	bottom:5px;
+	right:210px;
+}
+
+#copyright{
+	position:absolute;
+	bottom:4px;
+	right:195px;
+}
+
+#button{
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #000000;
+  font-size: 14px;
+  background: #ade3e0;
+  padding: 5px 20px 5px 20px;
+  text-decoration: none;
+}
+
+#button:hover {
+  background: #a7ebe6;
+  text-decoration: none;
+}
